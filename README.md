@@ -1,5 +1,3 @@
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31glv2jbnpifm6cbq2y54aufwqyq)
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -32,6 +30,8 @@
 ###
 
 <br clear="both">
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31glv2jbnpifm6cbq2y54aufwqyq)
 
 <div align="left">
   <a href="https://open.spotify.com/user/iodomi">
