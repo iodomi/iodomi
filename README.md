@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=iodomi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=1&date_format=n/j%5B/Y%5D" height="140" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iodomi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iodomi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true" height="140" alt="languages graph"  />
 </div>
 
