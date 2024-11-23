@@ -26,4 +26,4 @@
 </div>
 
 ###
-I have also create a GitLab account, [check it out here](https://gitlab.com/iodomi)
+I have also created a GitLab account, [check it out here](https://gitlab.com/iodomi)
